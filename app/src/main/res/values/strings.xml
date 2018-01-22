@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BabyAndMe</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>30 Minutes</item>
+        <item>1 hour</item>
+        <item>90 minutes</item>
+        <item>2 hours</item>
+        <item>2 hours 30 minutes</item>
+        <item>3 Hours</item>
+        <item>3 hours 30 minutes</item>
+        <item>4 hours</item>
+    </string-array>
+</resources>

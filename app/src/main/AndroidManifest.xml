@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ovia.hackathon.babyandme">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Splash2Activity" />
+        <activity android:name=".Splash3Activity" />
+        <activity android:name=".Splash4Activity" />
+        <activity android:name=".MeasureActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".MonitorActivity" />
+        <activity android:name=".Splash5Activity" />
+        <activity android:name=".Splash6Activity" />
+        <activity android:name=".Splash7Activity" />
+        <activity android:name=".Splash8Activity" />
+        <activity android:name=".Splash9Activity"></activity>
+    </application>
+
+</manifest>
